@@ -1,0 +1,4 @@
+1) How many hours do you estimate you used completing this assignment? 1 hour
+2) What was easiest for you when completing this assignment? Creating the typescript file and adding 
+the necessary properties
+3) What was the most difficult challenge you experienced when completing this assignment? Nothing
